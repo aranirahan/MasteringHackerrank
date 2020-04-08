@@ -1,3 +1,5 @@
+package interviewpreparation.warmup;
+
 import java.io.*;
 import java.util.*;
 

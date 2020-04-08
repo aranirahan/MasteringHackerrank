@@ -1,8 +1,6 @@
-import java.io.*;
+package thirtydayscode;
+
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class DataType {
 

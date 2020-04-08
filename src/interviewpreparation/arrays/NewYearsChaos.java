@@ -1,4 +1,4 @@
-package arrays;
+package interviewpreparation.arrays;
 
 import java.util.Scanner;
 

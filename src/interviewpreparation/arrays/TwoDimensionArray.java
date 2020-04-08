@@ -1,4 +1,4 @@
-package arrays;
+package interviewpreparation.arrays;
 
 import java.io.*;
 import java.util.*;
